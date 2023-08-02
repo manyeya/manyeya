@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Siema Khutso</h1>
-<h3 align="center">A passionate designer developer from South Africa</h3>
+<h1 align="left">Hi 👋, I'm Siema Khutso</h1>
+<h3 align="left">A passionate designer developer from South Africa</h3>
 
 - 🌱 I’m currently learning **Phoenix framework**
 
