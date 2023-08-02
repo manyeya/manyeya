@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siema Khutso</h1>
 <h3 align="center">A passionate designer developer from South Africa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manyeya&label=Profile%20views&color=0e75b6&style=flat" alt="manyeya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manyeya" alt="manyeya" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/khutsosiema" target="blank"><img src="https://img.shields.io/twitter/follow/khutsosiema?logo=twitter&style=for-the-badge" alt="khutsosiema" /></a> </p>
-
 - 🌱 I’m currently learning **Phoenix framework**
 
 - 💬 Ask me about **Typescript,Elixir,Prompt Engineering and UI Deign**
