@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Phoenix framework**
 
-- 💬 Ask me about **Typescript,Elixir,Prompt Engineering and UI Deign**
+- 💬 Ask me about **Typescript,Elixir,Dart,Prompt Engineering and UI Deign**
 
 - 📫 How to reach me **siemakhutso@gmail.com**
 
