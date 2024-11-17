@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Siema Khutso</h1>
 <h3 align="left">A passionate designer developer from South Africa</h3>
 
-- 🌱 I’m currently learning **Phoenix framework**
+- 🌱 I’m currently learning **Data Engineering**
 
-- 💬 Ask me about **Typescript,Elixir,Dart,Prompt Engineering and UI Deign**
+- 💬 Ask me about **Typescript,Python,Prompt Engineering and UI Deign**
 
 - 📫 How to reach me **siemakhutso@gmail.com**
 
