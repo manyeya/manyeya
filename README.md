@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 💬 Ask me about **Typescript,Python,Prompt Engineering and UI Deign**
+- 💬 Ask me about **Typescript, Python, Dart,Prompt Engineering and UI Deign**
 
 - 📫 How to reach me **siemakhutso@gmail.com**
 
