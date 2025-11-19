@@ -27,23 +27,3 @@ Currently, my obsession lies in AI Engineering—specifically constructing auton
 💬 Ask me about: TypeScript, Python, Flutter, Prompt Engineering, and Design Systems.
 
 📫 Reach me at: siemakhutso@gmail.com
-
-🛠️ The Tech Stack
-
-I view tools as a means to an end. My toolkit is curated to build scalable, beautiful, and intelligent products.
-
-Core & AI
-
-<p>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<!-- Added OpenAI/Langchain generic placeholders or text if icons aren't available -->
-</p>
-
-<br />
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dkhutsosiema%26theme%3Ddracula%26hide_border%3Dtrue" alt="streak" />
-</div>
