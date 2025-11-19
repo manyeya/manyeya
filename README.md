@@ -9,11 +9,9 @@
     <a href="https://twitter.com/khutsosiema" target="_blank">
       <img src="https://img.shields.io/twitter/follow/khutsosiema?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge" />
     </a>
-
     <a href="https://dev.to/manyeya" target="_blank">
       <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge" />
     </a>
-
     <a href="https://dribbble.com/khutsosiema" target="_blank">
       <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge" />
     </a>
