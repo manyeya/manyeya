@@ -1,35 +1,29 @@
-<div align="center">
-  <h1 align="center">Hi 👋, I'm Siema Khutso</h1>
-  <h3 align="center">Digital Product Engineer | AI & UI/UX Specialist</h3>
-  <p align="center">
-    <em>Bridging the gap between human-centric design and intelligent AI systems.</em>
-  </p>
+<div align="center">                                                                                 
+                                         
+  **Siema Khutso**
 
-  <p align="center">
-    <a href="https://twitter.com/khutsosiema" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/khutsosiema?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge" />
-    </a>
-    <a href="https://dev.to/manyeya" target="_blank">
-      <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge" />
-    </a>
-    <a href="https://dribbble.com/khutsosiema" target="_blank">
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge" />
-    </a>
-  </p>
-</div>
+  Digital Product Engineer based in South Africa
 
-👨‍💻 About Me
+  [Twitter](https://twitter.com/khutsosiema) • [DEV.to](https://dev.to/manyeya) •
+  [Dribbble](https://dribbble.com/khutsosiema)
 
-I am a Digital Product Engineer based in South Africa with a unique background spanning full-stack architecture and high-fidelity UI/UX design.
+  </div>
 
-Currently, my obsession lies in AI Engineering—specifically constructing autonomous agents and integrating LLM workflows into user-facing products. I believe the future of software is intuitive, adaptive, and intelligent.
+  ---
 
-🔭 Currently working on: Building AI Agents & Automating Workflows.
+  I build full-stack applications with a focus on AI engineering and UI/UX. Currently working on
+  autonomous agents and LLM-powered products.
 
-🌱 Currently learning: Advanced Data Engineering pipelines to power AI models.
+  **Stack**
 
-🎨 Design Philosophy: "Pixel perfect, but logic driven."
+  TypeScript • Python • Flutter • Next.js • React
 
-💬 Ask me about: TypeScript, Python, Flutter, Prompt Engineering, and Design Systems.
+  **Current focus**
 
-📫 Reach me at: siemakhutso@gmail.com
+  - Building AI agents and workflow automation
+  - Learning data engineering for AI infrastructure
+  - Design systems and pixel-perfect interfaces
+
+  **Get in touch**
+
+  siemakhutso@gmail.com
