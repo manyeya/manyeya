@@ -16,7 +16,7 @@
 
   **Stack**
 
-  TypeScript • Python • Flutter • Next.js • React
+  TypeScript • Python • Dart • Go
 
   **Current focus**
 
